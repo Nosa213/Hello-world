@@ -4,7 +4,7 @@
     <p>Please Please complete this form to create an account gentleman</p>
     <hr>
 
-    <label for="email"><b>email</b></label>
+    <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
     <label for="psw"><b>Password</b></label>
